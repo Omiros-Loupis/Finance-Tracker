@@ -8,7 +8,7 @@ A robust and secure Personal Finance Tracker built in **Python**. This project u
 | **Visualizations** | Auto-saved PNG charts: Pie Charts for distribution, Bar Charts for comparison. |
 | **User Experience** | Interactive Menu, Sample Data Included, Filtering by Month/Year. |
 
-## 💻 Technologies Used
+##  Technologies Used
 
   * **Python 3.x**
   * **`pandas`:** Data analysis and reporting.
